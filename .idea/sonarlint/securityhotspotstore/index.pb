@@ -21,3 +21,13 @@ n
 >app/src/main/java/com/example/and102_bitfit/DetailsActivity.kt,3\1\310eb42f35b3751dd32d7c63041784dbe7263b91
 m
 =app/src/main/java/com/example/and102_bitfit/DisplayCalorie.kt,6\c\6cbce44e701c2742cde45b9a10fc1fdfa48c67c7
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+F
+app/proguard-rules.pro,9\e\9e08934d811afe28fbc77aaa3c0d747b94348db9
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+I
+gradle/libs.versions.toml,d\7\d7595319a0658be6f1ed500ad590d42e4b28bc4f

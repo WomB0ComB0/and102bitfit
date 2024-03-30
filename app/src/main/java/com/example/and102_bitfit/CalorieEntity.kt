@@ -8,7 +8,5 @@ import androidx.room.PrimaryKey
 data class CalorieEntity(
     @PrimaryKey(autoGenerate = true) val id: Long = 0,
     @ColumnInfo(name = "calorie") val calorie: String?,
-    @ColumnInfo(name = "food") val food: String?,
-    @ColumnInfo(name = "date") val date: String?,
-    @ColumnInfo(name = "time") val time: String?
+    @ColumnInfo(name = "food") val food: String?
 )

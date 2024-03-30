@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">and102-bitfit</string>
+    <string name="add_calorie" />
+    <string name="Add_New_Food">Add New Food</string>
+    <string name="calories">Calories</string>
+    <string name="food">Food</string>
+    <string name="caloriestext">Calories</string>
+    <string name="enter_food_name">Enter food name</string>
+    <string name="enter_calories">Enter calories</string>
+    <string name="record_this_food">Record this food</string>
 </resources>

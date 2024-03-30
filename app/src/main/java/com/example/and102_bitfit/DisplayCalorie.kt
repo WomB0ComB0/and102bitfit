@@ -1,9 +1,11 @@
 package com.example.and102_bitfit
 
-data class DisplayCalorie(
-    val food: String?,
-    val calories: Int?,
-    val date: String?,
-    val time: String?,
-    val id: Int?
-): java.io.Serializable
+class DisplayCalorie(
+    val food: String,
+    val calories: Int,
+    private val id: Int?
+) {
+    override fun toString(): String {
+        return "DisplayCalorie(food='$food', calories=$calories, id=$id)"
+    }
+}
