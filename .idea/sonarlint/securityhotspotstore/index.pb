@@ -31,3 +31,5 @@ X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 I
 gradle/libs.versions.toml,d\7\d7595319a0658be6f1ed500ad590d42e4b28bc4f
+q
+Aapp/src/main/java/com/example/and102_bitfit/AddCalorieFragment.kt,2\b\2b915a1e201877cdfcef2ec6d2d21ccc6e1c93a4
